@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Chinnu",
+      "comment": "Excellent"
+    },
+    {
+      "id": 2,
+      "name": "sai",
+      "comment": "very good"
+    }
+  ]
+}
